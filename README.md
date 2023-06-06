@@ -21,29 +21,30 @@ To set up and run the URL Shortener project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/url-shortener.git```
+   git clone https://github.com/your-username/url-shortener.git
+   ```
    
 2. Navigate to the project directory:
 
   ```bash
-    cd url-shortener
+  cd url-shortener
   ```
 3. Create a virtual environment (optional but recommended):
-```bash
-    python3 -m venv venv
-  ```
+   ```bash
+   python3 -m venv venv
+   ```
 5. Activate the virtual environment:
 * On macOS and Linux:
   ```bash
-    source venv/bin/activate
+  source venv/bin/activate
   ```
 * On Windows:
   ```bash
-    venv\Scripts\activate
+  venv\Scripts\activate
   ```
 7. Install the required packages:
-```bash
-    pip install -r requirements.txt
+  ```bash
+  pip install -r requirements.txt
   ```
 
 ### Running the Application
